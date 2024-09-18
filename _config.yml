@@ -12,7 +12,7 @@ title                    : "Chen Hanlin"
 title_separator          : "-"
 name                     : &name "cici"
 description              : &description "Positive and energetic, bringing a can-do attitude to everything I do."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://AYOU-C.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AYOU-C/AYOU-C.github.io"
 
@@ -24,7 +24,7 @@ author:
   pronouns         : "she"  
   bio              : "Positive and energetic, bringing a can-do attitude to everything I do."
   location         : "China"
-  employer         : "Sichuan University"
+  employer         : 
   uri              : # URL
   email            : "cicichan12@163.com" 
 
